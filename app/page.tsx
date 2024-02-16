@@ -1,10 +1,11 @@
-import React from 'react'
+import Hero from "@/components/shared/Hero";
+
 
 const Home = () => {
   return (
-    <div>
-      page
-    </div>
+    <>
+      <Hero />
+    </>
   )
 }
 
